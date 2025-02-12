@@ -1,1 +1,2 @@
-num = 15
+num = 20
+print(num)
